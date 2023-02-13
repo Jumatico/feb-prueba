@@ -1,2 +1,2 @@
-# señalar README
+# Modificar README
 Practicar repositorio remoto y local con git push, git pull, git fetch...
