@@ -1,2 +1,2 @@
-# feb-prueba
-Practicar repositorios en remoto y luego local con git push git pull git fetch
+# señalar README
+Practicar repositorio remoto y local con git push, git pull, git fetch...
